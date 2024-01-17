@@ -9,7 +9,7 @@
   <a href="https://instagram.com/dbdt.29">
     <img src="https://img.shields.io/badge/Instagram-6D4C9F?style=for-the-badge&logo=instagram&logoColor=E4405F" target="_blank" />
   </a>
-  <a href="https://linkedin.com/in/dany-basulto" target="_blank">
+  <a href="https://www.linkedin.com/in/daniel-basulto-del-toro-b429112a9/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://LandinBT.github.io" target="_blank">

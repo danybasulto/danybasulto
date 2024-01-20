@@ -44,10 +44,10 @@
 <div align="center">
   <h2>⚡ Stats ⚡</h2>
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=LandinBT&theme=chartreuse-dark" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=danybasulto&theme=chartreuse-dark" alt="GitHub Streak" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=LandinBT&show_icons=true&theme=chartreuse-dark" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LandinBT&layout=compact&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danybasulto&show_icons=true&theme=chartreuse-dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danybasulto&layout=compact&theme=chartreuse-dark" />
 </div>
 
 ---

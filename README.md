@@ -1,7 +1,7 @@
 <!-- Presentation -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&duration=3000&pause=500&color=E8E8E8&size=36&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC;+I'm+Daniel+B.+Del+Toro!+%F0%9F%90%82;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Merriweather&duration=3000&pause=500&color=2783B7&size=36&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+%F0%9F%91%8B%F0%9F%8F%BC;+I'm+Daniel+B.+Del+Toro!+%F0%9F%90%82;" />
   </h1>
   <img src="https://media.giphy.com/media/5rT8xqVLpB6S6Ej89o/giphy.gif" height=300/>
   <br/>
